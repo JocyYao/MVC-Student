@@ -1,2 +1,2 @@
-# MVC-Student
-MVC example of a student db
+# Web Demo in Spring Boot
+
